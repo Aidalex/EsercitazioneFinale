@@ -10,4 +10,4 @@ Per iniziare è stato necessario pulire il file con Power Query e successivament
 È stato chiesto di:
 1. Creare un menù a tendina, all'interno del quale scegliendo il Nome Struttura, si avrà il numero totale delle strutture della regione e il numero di strutture presenti nella città della Struttura CERCATA (attraverso l'indice applicato vengono restituite tutte le strutture con lo stesso nome, ma presenti nelle diverse città, senza veniva restituita solo la prima struttura..  
 2. Creare una tabella pivot per mostrare il numero di strutture per CATEGORIA filtrabile per CITTÀ.
-3. Caricare la tabella presente nel foglio PREZZI del file PREZZIMEDI. Creare la relazione tra le due tabelle attraverso POWERPIVOT.
+3. Caricare la tabella presente nel foglio PREZZI del file PREZZIMEDI. Creare la relazione tra le due tabelle attraverso Power Pivot.
